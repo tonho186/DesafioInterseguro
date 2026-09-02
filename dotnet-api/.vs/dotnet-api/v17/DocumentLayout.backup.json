@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\tests\\matrixqrservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\tests\\matrixqrservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\matrixqr.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\matrixqr.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\controllers\\matrixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\controllers\\matrixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\services\\javastatisticsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\services\\javastatisticsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\services\\ijavastatisticsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\services\\ijavastatisticsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\data\\matrixrequestentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\data\\matrixrequestentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\services\\matrixqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\services\\matrixqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\services\\imatrixqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\services\\imatrixqrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\models\\matrixrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\models\\matrixrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\models\\matrixpair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\models\\matrixpair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|d:\\examen interseguro\\matrix-qr-challenge\\dotnet-api\\matrixqr.api\\models\\qrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EB7E8-0B85-4CEC-AFA0-4DFAE65305B3}|MatrixQr.Api\\MatrixQr.Api.csproj|solutionrelative:matrixqr.api\\models\\qrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixQrServiceTests.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Tests\\MatrixQrServiceTests.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Tests\\MatrixQrServiceTests.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Tests\\MatrixQrServiceTests.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Tests\\MatrixQrServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:44:21.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixQr.Api",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\MatrixQr.Api.csproj",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\MatrixQr.Api.csproj",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\MatrixQr.Api.csproj",
+              "RelativeToolTip": "MatrixQr.Api\\MatrixQr.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-01T22:42:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Dockerfile",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Dockerfile",
+              "RelativeToolTip": "MatrixQr.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-01T22:40:16.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\appsettings.json",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\appsettings.json",
+              "RelativeToolTip": "MatrixQr.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-01T21:49:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Program.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Program.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:47:49.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatrixController.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Controllers\\MatrixController.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Controllers\\MatrixController.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Controllers\\MatrixController.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Controllers\\MatrixController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:45:43.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JavaStatisticsClient.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Services\\JavaStatisticsClient.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Services\\JavaStatisticsClient.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Services\\JavaStatisticsClient.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Services\\JavaStatisticsClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:40:28.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJavaStatisticsClient.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Services\\IJavaStatisticsClient.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Services\\IJavaStatisticsClient.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Services\\IJavaStatisticsClient.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Services\\IJavaStatisticsClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:38:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:37:55.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatrixRequestEntity.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Data\\MatrixRequestEntity.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Data\\MatrixRequestEntity.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Data\\MatrixRequestEntity.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Data\\MatrixRequestEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:36:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MatrixQrService.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Services\\MatrixQrService.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Services\\MatrixQrService.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Services\\MatrixQrService.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Services\\MatrixQrService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:26:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMatrixQrService.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Services\\IMatrixQrService.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Services\\IMatrixQrService.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Services\\IMatrixQrService.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Services\\IMatrixQrService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:23:33.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QrResponse.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Models\\QrResponse.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Models\\QrResponse.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Models\\QrResponse.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Models\\QrResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:21:48.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MatrixPair.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Models\\MatrixPair.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Models\\MatrixPair.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Models\\MatrixPair.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Models\\MatrixPair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:21:10.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MatrixRequest.cs",
+              "DocumentMoniker": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Models\\MatrixRequest.cs",
+              "RelativeDocumentMoniker": "MatrixQr.Api\\Models\\MatrixRequest.cs",
+              "ToolTip": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\Models\\MatrixRequest.cs",
+              "RelativeToolTip": "MatrixQr.Api\\Models\\MatrixRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:20:26.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

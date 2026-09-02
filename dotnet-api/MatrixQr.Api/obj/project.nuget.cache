@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdC7tLehW6Y=",
+  "success": false,
+  "projectFilePath": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\MatrixQr.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "No se pudo descargar el paquete \"xunit.runner.visualstudio.3.0.0\" de \"https://api.nuget.org/v3-flatcontainer/xunit.runner.visualstudio/3.0.0/xunit.runner.visualstudio.3.0.0.nupkg\".\r\nError al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'api.nuget.org'",
+      "projectPath": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\MatrixQr.Api.csproj",
+      "filePath": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\MatrixQr.Api.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"xunit.runner.visualstudio\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/xunit.runner.visualstudio/index.json\".\r\n  Error al enviar la solicitud.\r\n  No se puede resolver el nombre remoto: 'api.nuget.org'",
+      "projectPath": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\MatrixQr.Api.csproj",
+      "filePath": "D:\\Examen Interseguro\\matrix-qr-challenge\\dotnet-api\\MatrixQr.Api\\MatrixQr.Api.csproj",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": []
+    }
+  ]
+}
