@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Matrix QR Challenge
 
 ## Overview
@@ -94,3 +95,7 @@ Recommended Azure architecture:
 - Azure Key Vault
 - Application Insights
 - GitHub Actions
+=======
+# DesafioInterseguro
+Desarrollo del desafío técnico solicitado por Interseguro como parte del proceso de selección
+>>>>>>> 7aa1b60024bee408f17794a17c4d62378fd426b8
